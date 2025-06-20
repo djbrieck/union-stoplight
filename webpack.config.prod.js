@@ -11,7 +11,8 @@ module.exports = merge(common, {
     }),
     new CopyPlugin({
       patterns: [
-        { from: 'img', to: 'img' },
+        { from: 'img', to: 'img', noErrorOnMissing: true },
+        { from: 'doc', to: 'doc' },
         { from: 'css', to: 'css' },
         { from: 'js/vendor', to: 'js/vendor' },
         { from: 'favicon.ico', to: 'favicon.ico' },
