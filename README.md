@@ -3,7 +3,7 @@
 For more information, see [html5 Boilerplate docs](https://github.com/h5bp/html5-boilerplate/blob/main/docs/usage.md
 )
 
-The Favicon was generated using [favicon.io](https://favicon.io/favicon-generator/) see GrandeRondeValleyLodge56.zip for the complete download that was generated for this site.
+The Favicon was generated using [favicon.io](https://favicon.io/favicon-generator/) see UnionStopLight.zip for the complete download that was generated for this site.
 
 ## Required software to build
 
