@@ -41,15 +41,18 @@ phone: "(541) 562-5700"
 # One line per entry, e.g. "Monday - Friday: 9AM to 5PM"
 
 hours:
-  - ""
+  - "Monday: Closed"
+  - "Tuesday - Sunday: 11AM to 8PM"
 
 
 # ── Links ─────────────────────────────────────────────────────────────────────
 # Social media, review sites, etc.
 
 links:
-  - label: ""
-    url: ""
+  - label: "Union Stoplight - Offical"
+    url: "https://unionstoplight.toast.site/"
+  - label: "Facebook: Union Stoplight"
+    url: "https://www.facebook.com/profile.php?id=100063703503456"
 
 
 # ── Menu ──────────────────────────────────────────────────────────────────────
@@ -57,8 +60,10 @@ links:
 # Remove this section entirely if not needed.
 
 menu:
-  - label: ""
-    url: ""
+  - label: "Takeout Menu - PDF"
+    url: "docs/UnionStoplightMenu.pdf"
+  - label: "Takeout Menu - plain text"
+    url: "docs/UnionStoplightMenu.html"
 
 
 # ── Services ──────────────────────────────────────────────────────────────────
