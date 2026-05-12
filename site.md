@@ -42,7 +42,7 @@ phone: "(541) 562-5700"
 
 hours:
   - "Monday: Closed"
-  - "Tuesday - Sunday: 11AM to 8PM"
+  - "Tuesday - Sunday: 11AM to 7:30PM"
 
 
 # ── Links ─────────────────────────────────────────────────────────────────────
@@ -66,18 +66,10 @@ menu:
     url: "docs/UnionStoplightMenu.html"
 
 
-# ── Services ──────────────────────────────────────────────────────────────────
-# One line per service offered.
-# Remove this section entirely if not needed.
-
-services:
-  - ""
-
-
 # ── Photos ────────────────────────────────────────────────────────────────────
 # Files should live in the img/ folder next to this site.md.
 # Remove this section entirely if not needed.
 
 photos:
-  - label: ""
-    url: "img/"
+  - label: "Storefront"
+    url: "img/Storefront.jpeg"
